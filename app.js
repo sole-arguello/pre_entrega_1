@@ -1,6 +1,8 @@
 function turnos(nombreApellido, fecha, horario, servicio){
 
     if(horario >= 8 && horario <= 20){
+
+
         switch(servicio){
             case "1":
                 return ((clienteIngresado(nombreApellido, fecha, horario, servicio)) +
@@ -17,12 +19,19 @@ function turnos(nombreApellido, fecha, horario, servicio){
                             ("\nEl costo de Esculpidas es de: $1000."));
 
             default:
-                return "Usted ingreso una opcion incorrecta, vuelva a ingresar los datos nuevamente";                
+                errorServicio = true;
+                return "Usted ingreso una opcion incorrecta"; 
+                               
         }
+        
       
     }else{
+       
         alert("Usted ingreso un horario incorrecto, vuelva a ingresar sus datos");
+        errorHorario = true;
+        
     }
+
 }
 
 function clienteIngresado(nombreApellido, fecha, horario, servicio){
@@ -34,13 +43,19 @@ function clienteIngresado(nombreApellido, fecha, horario, servicio){
 
 
 
-
+let errorServicio = false;
+let errorHorario = false;
 let consulta = prompt("Desea agendar un turno? si/no");
 while(consulta === "si"){
+    
     let nombreApellido = prompt("Ingrese Nombre y Apellido");
     let fecha = Number(prompt("Ingrese una fecha (dd/mm/aa)"));
     let horario = Number(prompt("Ingrese un horario (h)"));
     let servicio = prompt("Ingrese un servicio: \n 1 - semi \n 2 - kapping \n 3 - esculpida)");
+    alert(turnos(nombreApellido,fecha,horario,servicio));
+    if(errorServicio){
+        servicio = prompt("Ingrese un servicio: \n 1 - semi \n 2 - kapping \n 3 - esculpida)");
+    }
     alert(turnos(nombreApellido,fecha,horario,servicio));
     consulta = prompt("Desea agendar otro turno? si/no");
 }
