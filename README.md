@@ -53,4 +53,4 @@
     
 ### Devolucion por parte del Tutor Corrector:
     
-    ![imagen](img/devolucion)
+    ![imagen](img/devolucion.png)
