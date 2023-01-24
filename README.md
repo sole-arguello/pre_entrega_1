@@ -49,7 +49,7 @@
 
 ### Nota obtenida:
 
-![imagen](img/nota.png)
+![imagen](img/)
     
 ### Devolucion por parte del Tutor Corrector:
     
