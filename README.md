@@ -50,3 +50,7 @@
 ### Nota obtenida:
 
 ![imagen](img/nota.png)
+    
+### Devolucion por parte del Tutor Corrector:
+    
+    ![imagen](img/devolucion)
