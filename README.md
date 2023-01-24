@@ -46,3 +46,7 @@
        * “ELEGIR UN PROCESO QUE ME RESULTE INTERESANTE”: Si me siento motivado sobre el tema, es más llevadero enfrentar los retos de 
          desarrollo e interpretación. Antes de programar existe la etapa de relevamiento y análisis que me permite identificar 
          cómo solucionar el proceso.
+
+### Nota obtenida:
+
+![imagen](img/nota.png)
