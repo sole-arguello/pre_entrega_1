@@ -47,6 +47,10 @@
          desarrollo e interpretación. Antes de programar existe la etapa de relevamiento y análisis que me permite identificar 
          cómo solucionar el proceso.
 
+### Ver funcionalidad:
+
+Link: https://sole-arguello.github.io/pre_entrega_1/
+
 ### Nota obtenida:
 
 ![imagen](img/nota.png)
