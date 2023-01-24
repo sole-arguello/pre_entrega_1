@@ -2,10 +2,10 @@
 
 ## Temas vistos:
 
-  <li>1. Conceptos generales: Sintaxis y variables<\li>
-  <li>2. Control de flujos<\li>
-  <li>3. Ciclos e iteraciones<\li>
-  <li>4. Funciones<\li>
+  1. Conceptos generales: Sintaxis y variables
+  2. Control de flujos
+  3. Ciclos e iteraciones
+  4. Funciones
 
 ## Consigan a seguir:
        
