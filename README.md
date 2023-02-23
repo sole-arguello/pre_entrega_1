@@ -1,8 +1,6 @@
 # pre_entrega_1: Simulador Interactivo
 
-### DEMO:
-
-Link: https://sole-arguello.github.io/pre_entrega_1/
+### DEMO: https://sole-arguello.github.io/pre_entrega_1/
 
 ## Temas vistos:
 
