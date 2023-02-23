@@ -1,4 +1,5 @@
 # pre_entrega_1: Simulador Interactivo
+      Empieza a armar la estructura inicial de tu proyecto integrador.
 
 ### DEMO: https://sole-arguello.github.io/pre_entrega_1/
 
