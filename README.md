@@ -1,5 +1,9 @@
 # pre_entrega_1: Simulador Interactivo
 
+### DEMO:
+
+Link: https://sole-arguello.github.io/pre_entrega_1/
+
 ## Temas vistos:
 
   1. Conceptos generales: Sintaxis y variables
@@ -47,9 +51,7 @@
          desarrollo e interpretación. Antes de programar existe la etapa de relevamiento y análisis que me permite identificar 
          cómo solucionar el proceso.
 
-### Ver funcionalidad:
 
-Link: https://sole-arguello.github.io/pre_entrega_1/
 
 ### Nota obtenida:
 
